@@ -1,0 +1,82 @@
+description,crime_type,severity,legal_sections,resolution,source
+Husband beat wife repeatedly over dowry demands. She was hospitalised twice.,domestic_violence,3,"IPC 498A, IPC 323, DV Act 2005",Filed FIR. Court granted protection order. Majlis Law provided legal aid. Husband arrested.,seed_verified
+Husband strangled wife and attempted to kill her. She escaped to a neighbour's house.,domestic_violence,4,"IPC 307, IPC 498A, DV Act 2005",Emergency shelter at One Stop Centre. FIR under IPC 307. Husband remanded to custody.,seed_verified
+Husband poured kerosene on wife and set her on fire after a dowry dispute. 40% burns.,domestic_violence,4,"IPC 307, IPC 498A, IPC 304B",Husband arrested. Treated at government burns unit. Convicted — 10 years imprisonment.,seed_verified
+Husband verbally abuses wife every day in front of children. No physical violence.,domestic_violence,1,"DV Act 2005 Section 3, IPC 509",Protection Officer issued formal warning. Counselling ordered.,seed_verified
+"Live-in partner physically assaulted and abandoned woman with a toddler, no financial support.",domestic_violence,3,"DV Act 2005, IPC 323, IPC 506",Court granted residence order and Rs 8000/month maintenance.,seed_verified
+"Husband gambled away all savings, sold wife jewellery without consent, denies her money for food.",domestic_violence,2,"DV Act 2005 Section 3, IPC 406",Court ordered Rs 5000/month maintenance.,seed_verified
+Mother-in-law and husband harassed woman for not producing a male child. Starved her.,domestic_violence,3,"IPC 498A, DV Act 2005",NCW intervened. Protection order granted.,seed_verified
+"Woman locked inside house for 6 months, denied phone and contact with family.",domestic_violence,3,"IPC 342, IPC 498A, DV Act 2005",Neighbour alerted NCW. Police freed woman. FIR filed.,seed_verified
+Husband forced wife to work as domestic help and took all her earnings.,domestic_violence,2,"DV Act 2005, IPC 374",Court ordered husband to return wages and pay maintenance.,seed_verified
+Woman beaten every time husband drank alcohol. Ribs broken on two occasions.,domestic_violence,4,"IPC 498A, IPC 325, DV Act 2005",Majlis Law filed FIR. Husband convicted under IPC 325.,seed_verified
+Husband burned her hands on stove when dinner was not ready on time.,domestic_violence,4,"IPC 307, IPC 326, IPC 498A",Neighbour called police. Husband arrested. Fast-track court case filed.,seed_verified
+Husband sent her abusive voice notes threatening to throw her out with no money.,domestic_violence,2,"IPC 498A, IPC 506, DV Act 2005",Voice notes used as evidence. Protection officer issued notice.,seed_verified
+Woman not given food for 3 days as punishment for talking to her parents on phone.,domestic_violence,3,"IPC 498A, DV Act 2005",One Stop Centre gave immediate shelter. FIR filed. Husband arrested.,seed_verified
+Husband forced wife to sign blank documents and transferred her savings to his account.,domestic_violence,3,"IPC 406, IPC 420, DV Act 2005",Bank alerted. Transactions reversed by court order.,seed_verified
+Husband threatened to take away children if wife reported domestic violence.,domestic_violence,3,"IPC 498A, IPC 506, DV Act 2005",Court granted interim custody to wife. Protection order issued.,seed_verified
+Gang rape by two men known to the victim. Family pressured her not to report.,sexual_assault,4,"IPC 376D, IPC 506",One Stop Centre provided shelter. Fast-track court convicted both men.,seed_verified
+Father-in-law sexually assaulted her repeatedly when husband was away for work.,sexual_assault,4,"IPC 376, IPC 498A, DV Act 2005",iCall helpline guided her to police. FIR registered. Accused arrested.,seed_verified
+Woman raped by auto driver on the way home at night.,sexual_assault,4,"IPC 376, IPC 506",Police caught driver using CCTV. Fast-track court convicted him.,seed_verified
+Minor girl aged 14 raped by school teacher during extra class.,sexual_assault,4,"POCSO Act, IPC 376",Teacher arrested. POCSO court convicted him — 10 years jail.,seed_verified
+Colleague drugged her drink at office party and assaulted her.,sexual_assault,4,"IPC 376, IPC 328",Medical examination confirmed assault. Accused arrested. DNA evidence used.,seed_verified
+University professor coerced student into sexual relationship for better grades.,sexual_assault,3,"IPC 376, POSH Act",University ICC complaint. Police FIR filed. Professor dismissed.,seed_verified
+Stepfather sexually abused daughter from age 10 to 15.,sexual_assault,4,"POCSO Act, IPC 376 AB",Teacher reported to CWC. Stepfather arrested. Convicted — 20 years.,seed_verified
+Woman assaulted by security guard at her apartment complex at night.,sexual_assault,4,"IPC 376, IPC 354",CCTV evidence. Guard arrested same night. Fast-track case filed.,seed_verified
+Male colleague sent explicit messages and touched her inappropriately at workplace.,workplace_harassment,2,"IPC 354A, POSH Act 2013",Filed complaint with ICC. ICC found accused guilty. Terminated.,seed_verified
+Boss threatened to fire her if she did not comply with his sexual advances.,workplace_harassment,2,"IPC 354A, POSH Act 2013, IPC 506",ECC found employer guilty. Compensation offered.,seed_verified
+Senior male teacher made obscene comments to a 17-year-old student repeatedly.,workplace_harassment,3,"POCSO Act Section 11, IPC 354A",FIR under POCSO. Teacher arrested and suspended.,seed_verified
+Doctor at government hospital demanded sexual favours to approve medical leave.,workplace_harassment,2,"IPC 354A, Prevention of Corruption Act",SHe-Box complaint filed. Doctor suspended.,seed_verified
+Employer took explicit photos of woman employee during office trip without her knowledge.,workplace_harassment,3,"IT Act 66E, IPC 354C, POSH Act",ICC investigation plus police FIR. Employer convicted.,seed_verified
+Domestic worker sexually harassed by male employer daily.,workplace_harassment,2,"IPC 354A, IPC 506, Payment of Wages Act",NCW complaint. Police registered FIR. Wages recovered.,seed_verified
+Woman nursing student harassed by senior doctor during hospital rounds.,workplace_harassment,2,"IPC 354A, POSH Act 2013",External Complaints Committee filed. Doctor suspended for 2 years.,seed_verified
+Female journalist groped by politician during press conference caught on camera.,workplace_harassment,2,"IPC 354, IPC 354A",Video evidence. Politician arrested. She refused out-of-court settlement.,seed_verified
+"Stranger stalked woman for 3 months, followed her home, sent threatening messages.",stalking,2,"IPC 354D, IT Act 67",FIR under IPC 354D. Restraining order granted.,seed_verified
+"Ex-boyfriend followed her to work every day after breakup, stood outside her house at night.",stalking,2,"IPC 354D, IPC 506",Police warned him. He continued. FIR filed. Arrested. 3-year sentence.,seed_verified
+"Unknown man took photos of her at gym without consent, posted on social media.",stalking,2,"IPC 354D, IT Act 66E, IPC 354C",Cyber cell and police complaint. Man identified. Arrested.,seed_verified
+Man sent 200 messages a day to a woman after she rejected his proposal.,stalking,2,"IPC 354D, IPC 506",Police complaint. Man arrested. Order to maintain distance issued.,seed_verified
+Neighbour repeatedly followed her on morning walks and appeared wherever she went.,stalking,2,IPC 354D,Police FIR. Restraining order issued.,seed_verified
+Morphed obscene photos of her face circulated on WhatsApp groups.,cyber_crime,3,"IT Act 66E, IT Act 67A, IPC 509",cybercrime.gov.in complaint. Content removed. Accused traced and arrested.,seed_verified
+Ex-husband sent nude photos to her parents as revenge after separation.,cyber_crime,3,"IT Act 66E, IT Act 67, IPC 354C",Police filed case under IT Act. Platforms notified. Husband arrested.,seed_verified
+"Man created fake Instagram profile with her photos, chatted pretending to be her.",cyber_crime,3,"IT Act 66C, IT Act 66D, IPC 509",Cyber cell complaint. Fake profile taken down. Perpetrator arrested.,seed_verified
+Video of woman being assaulted was shared on pornographic websites without consent.,cyber_crime,4,"IT Act 67A, IPC 354C, IPC 376",IT Cell contacted platforms for takedown. FIR filed. Accused arrested.,seed_verified
+Boss sent obscene voice messages to female employee on work communication app.,cyber_crime,2,"IPC 354A, IT Act 67, POSH Act",Screenshots preserved. ICC and police approached. Boss suspended.,seed_verified
+Deepfake video created using her face in explicit content and shared in college group.,cyber_crime,4,"IT Act 66E, IT Act 67A, IPC 354C",College FIR. Cyber cell identified creator. Expelled and arrested.,seed_verified
+Man threatened to release her private photos if she did not pay Rs 50000.,cyber_crime,3,"IPC 384, IT Act 66E, IT Act 67",Police cyber cell complaint. Man arrested. He was convicted.,seed_verified
+Someone accessed her iCloud and shared her private photos in a Telegram group.,cyber_crime,4,"IT Act 66C, IT Act 67A, IPC 354C",Cyber cell traced Telegram group admin. Arrested. Content removed.,seed_verified
+Unknown person sent threatening emails saying he knows her location.,cyber_stalking,2,"IPC 507, IPC 506, IPC 354D",Cyber cell traced sender. FIR filed. Restraining order granted.,seed_verified
+Man sent hundreds of threatening messages on Instagram after she blocked him.,cyber_stalking,2,"IPC 354D, IT Act 67",Cyber cell FIR. Platform takedown. Man arrested.,seed_verified
+Someone created anonymous account to post her location and daily schedule publicly.,cyber_stalking,2,"IPC 354D, IT Act 66C",Cyber crime complaint. Anonymous account traced. Perpetrator arrested.,seed_verified
+Man posted her home address and phone number on a forum inviting harassment.,cyber_stalking,3,"IT Act 66E, IPC 509, IPC 506",Cyber cell FIR. Forum reported for content removal. Perpetrator arrested.,seed_verified
+"In-laws demanded more dowry, confiscated jewellery, locked her inside house.",dowry_harassment,3,"IPC 498A, Dowry Prohibition Act 1961, IPC 342",NCW intervened. Jewellery recovered. In-laws booked under IPC 498A.,seed_verified
+"Husband family demanded Rs 5 lakh cash 6 months after marriage, threatened to abandon her.",dowry_harassment,3,"IPC 498A, Dowry Prohibition Act 1961",Police FIR. Husband and in-laws arrested.,seed_verified
+Woman burnt to death by in-laws within 2 years of marriage due to dowry dispute.,dowry_harassment,4,"IPC 304B, IPC 498A, IPC 302",All in-laws arrested under IPC 304B. Life imprisonment for husband.,seed_verified
+Bride parents forced to give car as dowry at last minute before wedding.,dowry_harassment,2,Dowry Prohibition Act 1961 Section 3 and 4,FIR against groom family. Dowry Prohibition Officer investigated.,seed_verified
+Husband demanded dowry via WhatsApp messages. Screenshots used as evidence.,dowry_harassment,2,"IPC 498A, Dowry Prohibition Act 1961",Screenshots submitted as evidence. FIR filed.,seed_verified
+Ex-boyfriend threw acid on her face after she refused to resume relationship.,acid_attack,4,"IPC 326A, IPC 326B",FIR registered at hospital. Rs 3 lakh compensation. Chhanv Foundation rehabilitation.,seed_verified
+Neighbour threw acid on a 16-year-old girl after she rejected his advances.,acid_attack,4,"IPC 326A, POCSO Act",Arrested same day. Fast-track court. Convicted — life imprisonment.,seed_verified
+Woman acid attacked by jilted suitor outside her college gate.,acid_attack,4,"IPC 326A, IPC 326B",Witnesses helped catch attacker. 12-year sentence. Victim got compensation.,seed_verified
+Acid thrown on woman hands by husband relatives to mark her.,acid_attack,4,"IPC 326A, IPC 498A",All accused arrested. Victim received Rs 5 lakh from Victim Compensation Fund.,seed_verified
+Minor girl aged 16 trafficked from village under false promise of factory job.,trafficking,4,"IPC 370, POCSO Act, ITPA",Rescued by Prajwala. Trafficker convicted — 7 years. Girl enrolled in rehabilitation.,seed_verified
+"Woman lured to city with fake modelling job, forced into prostitution.",trafficking,4,"IPC 370, ITPA Section 3",Rescued in police raid. Trafficker arrested. Victim received Ujjawala scheme support.,seed_verified
+Bride sold by husband to another man within a month of marriage.,trafficking,4,"IPC 370, IPC 366",Both men arrested. Conviction — 10 years each.,seed_verified
+Woman forced into marriage at 15 by parents after receiving money from groom family.,trafficking,4,"Prohibition of Child Marriage Act 2006, IPC 370",Childline 1098 alerted. CWC intervened. Marriage declared void.,seed_verified
+Children trafficked from tribal village under guise of school enrollment.,trafficking,4,"IPC 370, JJ Act, POCSO Act",NGO rescued 12 children. Traffickers convicted. Children rehabilitated.,seed_verified
+Male relatives threatened to kill her for talking to a boy from another caste.,honour_crime,4,"IPC 506, IPC 120B, IPC 307",High Court protection order. Relatives arrested. Woman relocated safely.,seed_verified
+Woman killed by brother for marrying man of her choice. Honour killing.,honour_crime,4,"IPC 302, IPC 120B",Brother sentenced to death. Rarest of rare ruling by Supreme Court.,seed_verified
+Khap panchayat ordered woman and her husband to separate. Threatened violence.,honour_crime,4,"IPC 506, IPC 120B",High Court stayed panchayat order. Police protection provided.,seed_verified
+Girl family locked her up for 3 months after discovering her boyfriend from another religion.,honour_crime,3,"IPC 342, IPC 506, Article 21",Habeas corpus petition in High Court. Girl released.,seed_verified
+Woman threatened by in-laws for filing for divorce. Asked to drop case.,honour_crime,3,"IPC 506, IPC 120B",Police protection granted. FIR against in-laws. Divorce proceedings continued.,seed_verified
+Unknown men groped her in a crowded public bus. She screamed but bystanders ignored.,molestation,2,"IPC 354, IPC 354A",CCTV footage used. Accused identified. Arrested.,seed_verified
+Man rubbed against her in metro train deliberately despite there being space.,molestation,2,"IPC 354, IPC 509",Metro security alerted. Man held. Police FIR filed.,seed_verified
+Doctor examined her inappropriately during a routine check-up.,molestation,3,"IPC 354, IPC 354A, IMC Act",Police FIR plus complaint to Medical Council. Doctor suspended.,seed_verified
+Religious leader at temple touched her inappropriately under guise of blessing.,molestation,2,"IPC 354, IPC 354A",Community members supported her complaint. Police FIR filed.,seed_verified
+Plumber at her house touched her without consent while pretending to show a pipe issue.,molestation,2,IPC 354,Police complaint. Man identified through agency records. FIR filed.,seed_verified
+Brothers refused to give her share of father property despite legal right.,property_rights,1,"Hindu Succession Act 2005, IPC 406",DLSA legal aid. Civil suit filed. Settled out of court.,seed_verified
+In-laws sold marital home without informing wife after husband death.,property_rights,2,"Hindu Succession Act, IPC 406, IPC 420",Court issued stay on sale. Wife rights established.,seed_verified
+"Father gifted all property to sons, excluded daughters entirely from will.",property_rights,1,Hindu Succession Act 2005,Legal challenge filed. Court ruled in daughter favour. Equal share awarded.,seed_verified
+Husband transferred all shared property to his mother before filing for divorce.,property_rights,2,"IPC 406, IPC 420, Transfer of Property Act",Court reversed transfer as fraudulent. Property restored.,seed_verified
+Employer withheld salary for 4 months and threatened to cancel work permit.,labour_exploitation,2,"Payment of Wages Act, IPC 374",Labour commissioner complaint. Employer ordered to release dues.,seed_verified
+Garment factory women forced to work 14-hour shifts with no overtime pay.,labour_exploitation,2,"Factories Act 1948, Minimum Wages Act 1948",Labour inspector raid. Factory fined. Workers given overtime dues.,seed_verified
+Domestic worker not paid for 6 months and threatened with police if she complained.,labour_exploitation,2,"Payment of Wages Act, IPC 374, IPC 506",NGO SEWA helped file labour court case. All dues recovered.,seed_verified
+Migrant woman worker passport confiscated by employer. Forced to work without pay.,labour_exploitation,3,"Bonded Labour Abolition Act, IPC 374, IPC 342",eMigrate helpline contacted. Passport recovered. Employer arrested.,seed_verified
+Women agricultural workers paid Rs 50 per day less than male workers for same work.,labour_exploitation,1,"Equal Remuneration Act 1976, Minimum Wages Act",Labour department complaint. Employer directed to equalise pay.,seed_verified
