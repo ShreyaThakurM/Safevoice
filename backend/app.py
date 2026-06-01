@@ -31,7 +31,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://localhost:5173",
-        "https://your-app.vercel.app",   # ← replace with your Vercel URL
+        "https://safevoice-xi.vercel.app/",   # ← replace with your Vercel URL
     ],
     allow_credentials=True,
     allow_methods=["*"],
